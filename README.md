@@ -3,13 +3,13 @@
 Welcome to my GitHub! I'm an aspiring academic and researcher with a background in Business Analytics and a growing portfolio of interdisciplinary research at the intersection of consumer behavior, AI, and linguistic analysis. Currently, I’m working on projects that explore brand voice consistency, trust in AI, and interpersonal dynamics in human-computer interaction.
 
 ### 🧠 About Me
-While studying for my Bachelor's in Business Analytics, I’ve developed strong core research skills ranging from academic writing and time management to data manipulation and textual analysis using R, Python, and SQL.
+While earning my Bachelor's in Business Analytics, I developed core research skills in academic writing, data analysis, and text mining using R, Python, and SQL.
 
-In the summer of 2024, I completed a MITACS research internship under the guidance of Dr. Holly Howe. I conducted an extensive literature review on brand voice consistency, scraped over 250,000 social media posts, and analyzed more than 20 linguistic features using tools like LIWC and Python’s nltk. I also developed competencies in image analytics (OpenCV), regression analysis, and network modeling (R's statnet).
+In summer 2024, I completed a MITACS internship with Dr. Holly Howe, where I reviewed literature on brand voice consistency, scraped 250,000+ social media posts, and analyzed over 20 linguistic features using LIWC and nltk. I also gained experience in image analytics (OpenCV), regression, and network modeling (R's statnet).
 
-I presented this work at SCP 2025 in Las Vegas and am currently co-authoring a manuscript we plan to submit to journals such as JCR. Attending ACR 2024 deepened my appreciation for rigorous consumer research and sharpened my interest in authenticity, trust, and AI as social agents.
+I presented this work at SCP 2025 and am co-authoring a manuscript for journals like JCR. Attending ACR 2024 further fueled my interest in authenticity, trust, and AI as social agents.
 
-As a Research Associate at the University of Exeter’s AI in Group Work lab, I explored collaborative intelligence and team dynamics in the context of AI-human collaboration. I led projects spanning Qualtrics survey design, ethical review submissions, and university policy consultations, drawing from research in HR, decision science, and computer science.
+As a Research Associate at the University of Exeter’s AI in Group Work lab, I led projects on collaborative intelligence—designing surveys in Qualtrics, submitting ethics applications, and advising university policy through research grounded in HR, decision science, and computer science.
 
 ### 🛠️ Technical Skills
 Languages: Python, R, SQL
