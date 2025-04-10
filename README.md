@@ -45,8 +45,8 @@ Academic: Research design, publication writing, and conference presenting
 
 ### 🌟 Highlighted Projects
 
-🧵 Brand Voice Consistency, Linguistic Analysis, and Image Analysis
-Analyzed hundreds of thousands of social media posts across platforms to assess how consistent brand messaging impacts consumer perception. Employed Python and R to extract, preprocess, and analyze text across various linguistic dimensions.
+🧵 Image Consistency
+Analyzed hundreds of thousands of social media posts across platforms to assess how consistent brand messaging impacts consumer perception. Employed Python and R to extract, preprocess, and analyze text across various linguistic dimensions. (Data unavailable due to ownership).
 
 📊 Airbnb Dashboard
 Analyses over 2000 Airbnb listings in Bristol, UK to offer strategic recommendations to increase host growth and increase occupancy rate.
