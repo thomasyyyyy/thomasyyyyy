@@ -44,6 +44,7 @@ Professional: Project coordination, cross-disciplinary collaboration, communicat
 Academic: Research design, publication writing, and conference presenting
 
 🌟 Highlighted Projects
+
 🧵 Brand Voice Consistency, Linguistic Analysis, and Image Analysis
 Analyzed hundreds of thousands of social media posts across platforms to assess how consistent brand messaging impacts consumer perception. Employed Python and R to extract, preprocess, and analyze text across various linguistic dimensions.
 
