@@ -1,7 +1,7 @@
-👋 Hi there, I’m Thomas Young
+###👋 Hi there, I’m Thomas Young
 Welcome to my GitHub! I'm an aspiring academic and researcher with a background in Business Analytics and a growing portfolio of interdisciplinary research at the intersection of consumer behavior, AI, and linguistic analysis. Currently, I’m working on projects that explore brand voice consistency, trust in AI, and interpersonal dynamics in human-computer interaction.
 
-🧠 About Me
+### 🧠 About Me
 While studying for my Bachelor's in Business Analytics, I’ve developed strong core research skills ranging from academic writing and time management to data manipulation and textual analysis using R, Python, and SQL.
 
 In the summer of 2024, I completed a MITACS research internship under the guidance of Dr. Holly Howe. I conducted an extensive literature review on brand voice consistency, scraped over 250,000 social media posts, and analyzed more than 20 linguistic features using tools like LIWC and Python’s nltk. I also developed competencies in image analytics (OpenCV), regression analysis, and network modeling (R's statnet).
