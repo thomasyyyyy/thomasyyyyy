@@ -1,4 +1,4 @@
-###👋 Hi there, I’m Thomas Young
+### Hi there, I’m Thomas Young 👋 
 
 Welcome to my GitHub! I'm an aspiring academic and researcher with a background in Business Analytics and a growing portfolio of interdisciplinary research at the intersection of consumer behavior, AI, and linguistic analysis. Currently, I’m working on projects that explore brand voice consistency, trust in AI, and interpersonal dynamics in human-computer interaction.
 
